@@ -1,2 +1,4 @@
 # rep_tes
 repository_test
+
+#windows側からSourceTree経由でgithubを更新するテスト
